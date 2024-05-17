@@ -1,0 +1,21 @@
+.text{
+    text-align: center;
+    padding: 2%;
+    font-size: 24x;
+    background: linear-gradient(grey,black);
+    color: white;
+}
+
+
+
+
+
+
+body{
+    padding: 6%;
+    background: url(https://i.pinimg.com/236x/d9/0c/9a/d90c9a0166ee077cc4dba1db375dc0e4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
